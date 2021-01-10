@@ -23,3 +23,33 @@ Features:
 Note that prices have been adjusted for dividends and splits.
 
 ### LICENSE OF DATASET : [LICENSE](https://creativecommons.org/publicdomain/zero/1.0/)
+
+### Requirements
+
+You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
+
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. 
+
+This project requires **Python** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [statsmodels](https://www.statsmodels.org/stable/)
+
+
+### Steps :
+1. Importing Libraries
+2. Exploring the Dataset
+3. Exploratory Data Analysis
+> * Univariate Analysis
+4. Data Preprocessing
+5. Model Building
+> * AUTOREGRESSIVE MODEL
+> * MOVING AVERAGE MODEL
+6. Evaluation
+> * MEAN SQUARE ERROR
+> * MEAN ABSOLUTE ERROR
+> * ROOT MEAN SQUARE ERROR
+7. Conclusion
